@@ -1,1 +1,6 @@
 A linux tool for simple usage of the MSR605 magnet stripe reader/writer
+
+
+USAGE:
+
+    ./msrtool.py /dev/ttyUSB0
